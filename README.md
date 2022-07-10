@@ -71,3 +71,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## NOTE
+마리아 DB를 썼다.
+설치 방법은 [링크](https://mariadb.com/kb/ko/installing-mariadb-on-macos-using-homebrew)
